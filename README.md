@@ -2,11 +2,18 @@
 
 Aspiring AI engineer and data science student from Chennai. I'm lazy in a useful way: I build small tools that automate my own busywork.
 
-## Data science projects
-Full write-ups are in **[data-science-portfolio](https://github.com/vishalimmanuel/data-science-portfolio)**:
-- **Penguin Species Classifier**: classification with 3 models compared, about 98% cross-validated accuracy.
-- **California House Price Prediction**: regression with feature engineering, R² 0.77.
-- **School Fee Risk Predictor**: Streamlit app on synthetic data, ROC-AUC 0.90.
+## Projects
+Full write-ups are in **[data-science-portfolio](https://github.com/vishalimmanuel/data-science-portfolio)**.
+
+**Chennai (real data)**
+- **Chennai House Price Prediction**: cleaned messy records of 7,100+ properties and compared regression models.
+- **Chennai Water Crisis Analysis**: 15 years of reservoir data up to the 2019 "Day Zero" crisis, including a forecast that did not beat the baseline (reported honestly).
+
+**AI**
+- **GreenHarvest Assistant**: a RAG chatbot that answers from a real product catalog without inventing prices.
+
+**Foundations**
+- Penguin species classifier, California house price regression, and a Streamlit school fee risk app (synthetic data).
 
 These were built with AI assistance, and I can explain and modify the code.
 
